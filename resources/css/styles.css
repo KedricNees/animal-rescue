@@ -1,0 +1,95 @@
+h1{
+  padding: 40px;
+  background-color: #DAA520; /* gold */
+  text-align: center;
+  font-family: arial;
+  text-decoration: underline;
+  font-size: 50px;
+  margin: 45px;
+}
+
+p{
+  text-align: center;
+  font-size: 25px;
+  font-family: arial;
+}
+
+.animals{
+  padding: 45px;
+  text-align: left;
+  background-color:	#DAA520; /* gold */
+  margin: 45px;
+}
+
+.tasmanian{
+  padding: 40px;
+  background-color:	#6495ED; /* blue */
+  font-family: arial;
+
+}
+
+h2{
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 35px;
+}
+
+body{
+  background-color: #8B4513; /* brown */
+}
+
+.cassowary{
+    padding: 40px;
+    font-family: arial;
+    background-color:	#008B8B; /* turquoise */
+    }
+
+  .rheas{
+    padding: 40px;
+    font-family: arial;
+    background-color:	#48D1CC; /* teal */
+  }
+
+  .button{
+    color: #FFF;
+    background-color:	#A0522D; /* brown */
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5D6063;
+    border-radius: 5px;
+    margin: 2000px;
+    float: right;
+
+ width: 200px;
+ margin: 20px auto;
+  }
+
+  .info{
+    float: inherit;
+  }
+
+  .extinct{
+    float:left;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+.title{
+  text-align: center;
+
+}
+
+.cassy{
+  float: left;
+  margin-top: auto;
+  margin-bottom: auto;
+
+}
+
+.REE{
+  float: left;
+  margin-top: auto;
+  margin-bottom: auto;
+}
